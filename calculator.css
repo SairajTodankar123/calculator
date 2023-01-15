@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#box{
+    height: 260px;
+    width: 200px;
+    border: 1.5px solid;
+    box-shadow: 0 5px 5px 5px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: blueviolet;
+}
+#display{
+    height: 40px;
+    width: 80%;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-left: 20px;
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+    font-weight: 200;
+    font-size: 20px;
+}
+#box1{
+    height: 35px;
+    width: 35px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-left: 10px;
+    margin-top: 5px;
+    position: relative;
+    background-color: rgb(223, 137, 77);
+}
+#box1:hover{
+    padding: 5px 10px;
+
+}
